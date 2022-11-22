@@ -1,3 +1,9 @@
+Repositório destinado à prova do Projeto Deva B3 Módulo **DE-OP-004 Versionamento**
+
+Aluna: Ana Lícia Santos Braga
+Professor: Daniel Vieira
+
+
 **Prova**
 
 - Criar uma pasta local com o nome **prova-deva**  e inicializar um repositório Git;

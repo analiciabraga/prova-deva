@@ -1,3 +1,6 @@
-XML:
-JSON:
-YML:
+XML: Acrônimo em inglês para "eXtensible Markup Language", ou seja, "linguagem de marcação extensível", foi uma criação de um padrão de linguagem de marcação para estruturar documentos facilmente legíveis tanto para humanos quanto para máquinas. Além de ser um subconjunto de um outro padrão chamado SGML (Standard Generalized Markup Language), que ainda é utilizado em projetos até hoje, o XML originou o XHTML, uma revisão do HTML que foi muito utilizada entre 2000 até o lançamento do HTML 5 em 2008. Um arquivo XML possui extensão .xml e é constituído de tags, elementos que contém basicamente um nome e seu valor. Como por exemplo: valor
+
+JSON:JSON é um padrão para representação e transferência de dados que foi adotado ao longo dos anos por desenvolvedores da comunidade, já que consiste basicamente em utilizar os já existentes objetos JavaScript para guardar e trocar essas informações. Seu nome, inclusive, é um acrônimo em inglês para "JavaScript Object Notations", ou seja, "notação de objetos JavaScript".Arquivos JSON possuem a extensão .json e utilizam do modelo "chave-valor", onde os elementos possuem um atributo que os identifica e que garante fácil acesso a cada um deles. Por exemplo: { "chave": "valor", "chave2": "valor2",
+}
+
+YAML: Seu nome é outro acrônimo para o inglês "Yet Another Markup Language", ou seja, "mais uma linguagem de marcação".Arquivos YAML podem ter as extensões .yaml ou .yml, sendo a primeira a recomendada oficialmente. A linguagem possui diversas funcionalidades. Assim como o JSON, também implementa um modelo "chave-valor", com elementos possuindo um identificador e seu devido valor, podendo ser de diversos tipos (como strings, números ou listas). A sintaxe básica de um elemento é: chave: valor
