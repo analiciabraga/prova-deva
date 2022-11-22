@@ -1,6 +1,7 @@
-Repositório destinado à prova do Projeto Deva B3 Módulo **DE-OP-004 Versionamento**
+## Repositório destinado à prova do Projeto Deva B3 Módulo **DE-OP-004 Versionamento**
 
 Aluna: Ana Lícia Santos Braga
+
 Professor: Daniel Vieira
 
 
