@@ -1,0 +1,5 @@
+#Ignorando a pasta dependencias
+./dependencias
+
+#ignorando o arquivo nova-feature.py
+nova-feature.py
